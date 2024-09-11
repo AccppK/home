@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "http://akoj.hustoj.com/blog"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://www.123pan.com/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "OJ",
+    "link": "http://akoj.hustoj.com"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "http://akoj.hustoj.com"
+  },
+  {
+    "icon": "Book",
+    "name": "网址集",
+    "link": "http://akoj.hustoj.com"
+  },
+  {
+    "icon": "Fire",
+    "name": "百度",
+    "link": "https://www.baidu.com"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "http://aliyun.com"
+  }
+]
